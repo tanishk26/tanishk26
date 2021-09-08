@@ -2,6 +2,7 @@
 
 ## Welcome to my Github profile..
 
+I'm Tanishk Thilakan, currently pursuing Computers and Communication Engineering at Manipal Institute of Technology.
 <!--
 **tanishk26/tanishk26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
