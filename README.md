@@ -4,7 +4,7 @@
 
 I'm Tanishk Thilakan, currently pursuing Computers and Communication Engineering at Manipal Institute of Technology.
 
-## Skills:
+## Skills
 * C++
 * HTML
 * CSS
@@ -16,6 +16,12 @@ I'm Tanishk Thilakan, currently pursuing Computers and Communication Engineering
 * Jquery
 * Git
 
+## Links to my deployed projects
+
+* ToDo List
+* Newsletter Signup
+* Simon Game
+* DrumKit Challenge
 
 <!--
 **tanishk26/tanishk26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
