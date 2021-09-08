@@ -11,12 +11,12 @@ I'm Tanishk Thilakan, currently pursuing Computers and Communication Engineering
 * Javascript
 * Node.js
 * Express.js
-* MongoDB
+* MongoDB(mongoose)
 * Bootstrap
 * Jquery
 * Git
 
-- 🌱 I’m currently learning React and Passport.js
+I’m currently learning React and Passport.js
 
 ## Links to my deployed projects
 
