@@ -6,11 +6,11 @@ I'm Tanishk Thilakan, pursuing Computers and Communication Engineering at Manipa
 
 # Skills
 
-  ### Programming Languages
+### Programming Languages
 * C/C++
 * Javascript
 
-  ### Web Development
+### Web Development
 * HTML
 * CSS
 * Node.js
@@ -19,7 +19,7 @@ I'm Tanishk Thilakan, pursuing Computers and Communication Engineering at Manipa
 * Bootstrap
 * JQuery
 
-  ### Others
+### Others
 * Git
 * Heroku
 
