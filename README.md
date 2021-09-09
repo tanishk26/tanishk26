@@ -23,7 +23,7 @@ I'm Tanishk Thilakan, pursuing Computers and Communication Engineering at Manipa
 * Git
 * Heroku
 
-- 🌱 I’m currently learning React.js, Passport.js and authentication levels.
+🌱 I’m currently learning React.js, Passport.js and authentication levels.
 
 ## Links to my deployed projects
 
