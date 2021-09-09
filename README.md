@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-## Welcome to my Github profile...
+# Welcome to my Github profile...
 
-I'm Tanishk Thilakan, currently pursuing Computers and Communication Engineering at Manipal Institute of Technology.
+I'm Tanishk Thilakan, pursuing Computers and Communication Engineering at Manipal Institute of Technology. 
 
-## Skills
+# Skills
+
+  ### Programming Languages
 * C++
 * HTML
 * CSS
@@ -16,7 +18,7 @@ I'm Tanishk Thilakan, currently pursuing Computers and Communication Engineering
 * Jquery
 * Git
 
-I’m currently learning React and Passport.js
+- 🌱 I’m currently learning React.js and Passport.js
 
 ## Links to my deployed projects
 
