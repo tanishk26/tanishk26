@@ -7,18 +7,23 @@ I'm Tanishk Thilakan, pursuing Computers and Communication Engineering at Manipa
 # Skills
 
   ### Programming Languages
-* C++
+* C/C++
+* Javascript
+
+  ### Web Development
 * HTML
 * CSS
-* Javascript
 * Node.js
 * Express.js
 * MongoDB(mongoose)
 * Bootstrap
-* Jquery
-* Git
+* JQuery
 
-- 🌱 I’m currently learning React.js and Passport.js
+  ### Others
+* Git
+* Heroku
+
+- 🌱 I’m currently learning React.js, Passport.js and authentication levels.
 
 ## Links to my deployed projects
 
