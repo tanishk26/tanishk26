@@ -24,6 +24,8 @@ I'm Tanishk Thilakan, pursuing Computers and Communication Engineering at Manipa
 * Heroku
 
 🌱 I’m currently learning React.js, Passport.js and authentication levels.
+📫 How to reach me: tanishkthilakan01@gmail.com
+
 
 ## Links to my deployed projects
 
