@@ -9,6 +9,7 @@ I'm Tanishk Thilakan, pursuing Computers and Communication Engineering at Manipa
 ### Programming Languages
 * C/C++
 * Javascript
+* Python (Intermediate)
 
 ### Web Development
 * HTML
