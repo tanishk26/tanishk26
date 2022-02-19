@@ -31,10 +31,11 @@ I'm Tanishk Thilakan, pursuing Computers and Communication Engineering at Manipa
 
 ## Links to my deployed projects
 
-* ToDo List:          https://mighty-meadow-73722.herokuapp.com/
-* Newsletter Signup:  https://infinite-thicket-79406.herokuapp.com/
-* Simon Game:         https://simon-game-v1-phenom.netlify.app/
-* DrumKit Challenge:  https://drum-kit-challenge-v1.netlify.app/
+* 30-Day Bitcoin Rate Chart:   https://antler2.web.app/
+* ToDo List:                   https://mighty-meadow-73722.herokuapp.com/
+* Newsletter Signup:           https://infinite-thicket-79406.herokuapp.com/
+* Simon Game:                  https://simon-game-v1-phenom.netlify.app/
+* DrumKit Challenge:           https://drum-kit-challenge-v1.netlify.app/
 
 <!--
 **tanishk26/tanishk26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
